@@ -19,4 +19,4 @@
 
 1)  **My Java Notebook I** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Learning how to code in Java-fundamentals)
 2)  **My C++ Notebook I** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Learning how to code in C++-fundamentals)
-3)  **My Python Notebook I** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Learning how to code in Puthon-fundamentals)
+3)  **My Python Notebook I** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Learning how to code in Puthon-fundamentals)
